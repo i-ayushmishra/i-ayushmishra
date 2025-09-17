@@ -97,3 +97,5 @@
     <img alt="github contribution grid snake animation" src="https://github.com/i-ayushmishra/i-ayushmishra/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+![Snake animation](https://raw.githubusercontent.com/i-ayushmishra/i-ayushmishra/output/github-contribution-grid-snake.svg)
+
