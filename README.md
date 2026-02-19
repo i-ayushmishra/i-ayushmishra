@@ -18,7 +18,7 @@
   <a href="" target="_blank">
      <a href="https://www.linkedin.com/in/aayushmishra19/"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
   </a>
-<a href="mailto:mishraaayush078@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
+<a href="mailto:ayushmishra.workmail@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
 </p>
 
 
