@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
-<h3 align="center">🚀 A passionate Software Developer from India</h3>
+<h3 align="center">🚀 A passionate Software Developer </h3>
 
 
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  employee
 
 ### 🌐 Frontend  
 <p align="left">
@@ -37,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="50" />
 </p>
 
 ### 💻 Languages  
